@@ -1,0 +1,10 @@
+{
+  "description": "Explore South Korea’s population density trends by year with regional search and normalized line charts that make regional patterns easy to compare.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
